@@ -1,0 +1,24 @@
+---
+version: 1
+service:
+  name: Super Sergio Service
+  lifecycle: 
+  tier: tier_1
+  product: 
+  owner: sergio_s_super_team
+  language: python
+  framework: 
+  description: 'used for experiments'
+  aliases: 
+  tags:
+  - key: awesome
+    value: 'true'
+  - key: is_super
+    value: 'true'
+  repositories: 
+  tools:
+  - name: Dashboard
+    category: metrics
+    url: https://example.com
+    environment: 
+  dependencies: 
