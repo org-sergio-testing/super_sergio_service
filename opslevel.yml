@@ -20,5 +20,8 @@ service:
   - name: Dashboard
     category: metrics
     url: https://example.com
+  - name: alerts
+    category: incidents
+    url: https://example.ca
     environment: 
   dependencies: 
