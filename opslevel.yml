@@ -15,7 +15,7 @@ service:
     value: 'true'
   - key: is_super
     value: 'true'
-  repositories: 
+  repositories: []
   tools:
   - name: Dashboard
     category: metrics
